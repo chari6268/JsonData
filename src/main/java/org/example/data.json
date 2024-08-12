@@ -1,0 +1,87 @@
+{
+  "TotalAttendedHours": "189",
+  "AttendancePercentage": "32.76",
+  "SubjectCode": [
+    {
+      "SubCode 0": "22CS204",
+      "SubCode 1": "22CS306",
+      "SubCode 2": "22CS307",
+      "SubCode 12": "LIB001",
+      "SubCode 13": "OC223",
+      "SubCode 14": "TRG001",
+      "SubCode 10": "22NP301",
+      "SubCode 11": "22CS308",
+      "SubCode 7": "22CS805A",
+      "SubCode 8": "22TP302",
+      "SubCode 9": "22CS805",
+      "SubCode 3": "22TD953",
+      "SubCode 4": "22CS204A",
+      "SubCode 5": "22CS306A",
+      "SubCode 6": "22CS307A"
+    }
+  ],
+  "SubjectHoursAttended": [
+    {
+      "Sub 11": "22",
+      "Sub 12": "36",
+      "Sub 13": "36",
+      "Sub 14": "36",
+      "Sub 8": "18",
+      "Sub 9": "24",
+      "Sub 0": "17",
+      "Sub 1": "16",
+      "Sub 2": "13",
+      "Sub 3": "6",
+      "Sub 4": "6",
+      "Sub 5": "11",
+      "Sub 6": "12",
+      "Sub 7": "14",
+      "Sub 10": "22"
+    }
+  ],
+  "SubjectCount": [
+    {
+      "Count": 15
+    }
+  ],
+  "TotalAbsentHrs": "388",
+  "TotalHours": "577",
+  "Subjects": [
+    {
+      "Sub 11": "Inter Departmental Project – Phase II",
+      "Sub 12": "library",
+      "Sub 13": "COUNSELING",
+      "Sub 14": "TRAINING PROGRAM",
+      "Sub 8": "Quantitative Aptitude and Logical Reasoning ",
+      "Sub 9": "Digital Image Processing",
+      "Sub 0": "COMPUTER NETWORKS",
+      "Sub 1": "Data Mining Techniques",
+      "Sub 2": "Software Engineering",
+      "Sub 3": "FULL STACK DEVELOPMENT-III",
+      "Sub 4": "COMPUTER NETWORKS LAB",
+      "Sub 5": "Data Mining Techniques Lab",
+      "Sub 6": "Software Engineering Lab",
+      "Sub 7": "Digital Image Processing Lab",
+      "Sub 10": "R22 III YEAR I SEMESTER NPTEL COURSES"
+    }
+  ],
+  "SubjectHoursTotal": [
+    {
+      "Sub 11": "47",
+      "Sub 12": "171",
+      "Sub 13": "171",
+      "Sub 14": "171",
+      "Sub 8": "50",
+      "Sub 9": "57",
+      "Sub 0": "54",
+      "Sub 1": "39",
+      "Sub 2": "48",
+      "Sub 3": "21",
+      "Sub 4": "21",
+      "Sub 5": "27",
+      "Sub 6": "29",
+      "Sub 7": "34",
+      "Sub 10": "47"
+    }
+  ]
+}
